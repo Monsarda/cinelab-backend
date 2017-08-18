@@ -1,4 +1,5 @@
 Twig/
 .DS_Store
 .htaccess
+config/
 
